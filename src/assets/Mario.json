@@ -1,0 +1,60 @@
+{"frames": {
+
+"Mario - Idle.gif":
+{
+	"frame": {"x":0,"y":0,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":32},
+	"sourceSize": {"w":26,"h":32},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Mario - Jump.gif":
+{
+	"frame": {"x":26,"y":0,"w":34,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":32},
+	"sourceSize": {"w":34,"h":32},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Mario - Walk1.gif":
+{
+	"frame": {"x":60,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Mario - Walk2.gif":
+{
+	"frame": {"x":92,"y":0,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Mario - Walk3.gif":
+{
+	"frame": {"x":116,"y":0,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":30},
+	"sourceSize": {"w":28,"h":30},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"Mario - Walk": ["Mario - Walk1.gif","Mario - Walk2.gif","Mario - Walk3.gif"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Mario.png",
+	"format": "RGBA8888",
+	"size": {"w":144,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e4c8333f5d4322d81963aa8fb0c81fad:e09b8e9c4453c454fe992b16107fc4e3:677c66111ca926930683759f5df190f0$"
+}
+}

@@ -1,0 +1,43 @@
+{
+    "stageOne":{
+        "background":{
+            "name":"level1",
+            "image":"SuperMarioBros-World1-1.png"
+        },
+        "mario":{
+            "image":"ShouldBeInAssetsRn",
+            "posX":100,
+            "posY":500
+        },
+        "enemy1":{
+            "image":"ShouldBeInAssets2",
+            "posX":{
+
+            },
+            "posY":{
+
+            }
+        },
+        "enemy2":{
+            "image": "ShouldBeInAssets2",
+            "posX": {
+
+            },
+            "posY": {
+
+            }
+        },
+        "blocks":{
+            "size":{
+                "ladrillo":{
+                    "sizeX":"Number",
+                    "sizeY":"Number"
+                },
+                "question":{
+                    "sizeX": "Number",
+                    "sizeY": "Number"
+                }
+            }
+        }
+    }
+}
