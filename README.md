@@ -1,7 +1,6 @@
 # ImpGame
 ## Librerías utilizadas
-mathjs
-pixi.js
+mathjs, pixi.js
 
 ## Instalación
 Al descargar los archivos, abrir una consola (Command Prop), ir a la dirección de la carpeta y escribir en la consola:
