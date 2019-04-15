@@ -3,10 +3,11 @@
 mathjs, pixi.js
 
 ## Instalación
-Al descargar los archivos, abrir una consola (Command Prop), ir a la dirección de la carpeta y escribir en la consola:
+Al descargar los archivos, abrir una consola (Command Prompt), ir a la dirección de la carpeta y escribir en la consola:
 ```bash
 yarn install
 ```
+
 
 ## Modo de uso
 Para iniciar el juego, en la consola escribir:
